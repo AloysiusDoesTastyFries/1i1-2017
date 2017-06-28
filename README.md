@@ -1,2 +1,2 @@
-# 1i1-2017
-A page for 1i1 HCI 2017. 
+# Personal Projects
+A page for me, myself and probably some other people. 
